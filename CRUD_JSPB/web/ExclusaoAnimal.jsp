@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Eclusão</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+           <link rel="stylesheet" type="text/css" href="Css/TesteCSS.css" />
+    </head>
+    <body>
+        <div> <h5>Sistema de Controle de Fazendas</h5>
+        <img src ="fazenda.JPG" height="80" width="200" ><img>
+        <h4>Usuario:xxxx <a href =http://www.mauriciodenassau.edu.br/> Sair</a></h4>
+        </div>
+        <hr>
+       <h4>
+            <a href ="index.jsp">Fazendas</a> 
+            <a href="Animal.jsp">Animal</a> 
+            <a href="Usuario.jsp">Usuarios</a>
+        </h4>
+        
+        <h1>Exclusão de Animal</h1>
+        
+        Registro Cadastrado com Sucesso.<br>
+        <a href = "http://localhost:8383/Fazenda-JSP/Animal.jsp">Voltar para Listagem</a><br/>
+        <hr>
+    
+    </body>
+</html>
